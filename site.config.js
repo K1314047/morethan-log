@@ -6,7 +6,7 @@ const CONFIG = {
     role: "frontend developer",
     bio: "I develop everything using node.",
     email: "luwei.br@gmail.com",
-    linkedin: "morethanmin",
+    Home page: "https://1314047.xyz",
     github: "K1314047",
     instagram: "",
   },
@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "卢伟的朋友圈",
-    description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    title: "Kadriye's daily life",
+    description: "记录一些生活琐碎",
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
